@@ -1,0 +1,43 @@
+body
+{
+background-image: linear-gradient(to right top, #f18933, #79d690, #a518c1, #aa2f0a, #4f9400);
+
+font-style:inherit;
+    font-size: 50px;
+ 
+}
+ 
+
+button{
+
+    height: 60px;
+    width:500px;
+    background-color: rgb(101, 216, 178);
+}
+
+
+#img1{
+    height: 600px;
+    width: 600px;
+    
+
+}
+
+.form-group{
+
+    height: 500px;
+    width: 500px;
+}
+
+.info{
+
+    font-size: 45px;
+
+
+}
+
+.boby4{
+
+background-color: black;
+
+}
